@@ -1,0 +1,7 @@
+c:\Users\freze\source\repos\CSRepl\ReplEngine\bin\Debug\ReplEngine.dll
+c:\Users\freze\source\repos\CSRepl\ReplEngine\bin\Debug\ReplEngine.pdb
+c:\Users\freze\source\repos\CSRepl\ReplEngine\bin\Debug\Mono.CSharp.dll
+c:\Users\freze\source\repos\CSRepl\ReplEngine\obj\Debug\ReplEngine.csprojResolveAssemblyReference.cache
+c:\Users\freze\source\repos\CSRepl\ReplEngine\obj\Debug\ReplEngine.csproj.CoreCompileInputs.cache
+c:\Users\freze\source\repos\CSRepl\ReplEngine\obj\Debug\ReplEngine.dll
+c:\Users\freze\source\repos\CSRepl\ReplEngine\obj\Debug\ReplEngine.pdb
